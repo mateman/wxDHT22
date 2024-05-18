@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wxDHT22
+Comment=Medidor de Temperatura con DHT22
+TryExec=/usr/bin/python3
+Exec=/usr/bin/python3 ~/wxDHT22/wxDHT22.py
+Icon= dht22.png
+Terminal=false
+Type=Application
+Categories=Application
+StartupNotify=true
